@@ -8,8 +8,6 @@
 
 **Why did you choose this solution?**
 
-**What is the basic idea behind the code?**
-
 ## How Has This Been Tested?  Is there anything you weren't able to fully test?
 
 ## Does this change require updates outside of the code, like updating the documentation, adding a feature flag, or adding fields to a DB table? If so, was this done?
