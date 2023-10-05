@@ -1,4 +1,4 @@
-**[Jira Ticket Link](#) | Release Version**
+**[Ticket_Link_Text](https://freestar.atlassian.net/browse/Ticket_Number)**
 
 ## Description, Motivation and Context
 
